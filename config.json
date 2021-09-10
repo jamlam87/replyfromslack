@@ -13,5 +13,5 @@
     "slack_base_channel_name":"",
     "slack_icon_pic_src":"",
 
-    "baseURL":"" 
+    "baseURL":"https://b605-113-28-44-24.ngrok.io" 
 }
